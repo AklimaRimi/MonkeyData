@@ -1,0 +1,78 @@
+Name,Scientific Name,Weight(kg),Height(cm),Conservation Status,Commonly Found,Food Habit,Average age
+Macaque,Macaca spp.,12.0,56.0,Common,Asia,Omnivores,25.0
+Baboon,Papio spp.,27.0,85.0,Common,Africa,Omnivores,25.0
+Tamarin,Saguinus spp.,0.5,28.0,Common,North America,Omnivores,15.0
+Marmoset,Callithrix spp.,0.9,14.0,Common,South America,Omnivores,15.0
+Capuchin,Cebus spp.,2.55,43.0,Common,South America,Omnivores,30.0
+Squirrel Monkey,Saimiri spp.,0.9,30.0,Common,Amazon,Omnivores,17.5
+Langur,Presbytis spp.,14.5,65.0,Common,South Asia,Herbivorous,29.0
+Gibbon,Hylobatidae family,9.0,53.0,Common,South Asia,Omnivores,25.0
+Howler Monkey,Alouatta spp.,9.0,74.0,Common,South America,Omnivores,17.0
+Spider Monkey,Ateles spp.,7.0,38.0,Common,South America,Omnivores,22.0
+Mandrill,Mandrillus sphinx,35.0,92.0,Common,Africa,Omnivores,20.0
+Japanese Macaque,Macaca fuscata,10.0,54.5,Common,Japan,Omnivores,6.0
+Pygmy Marmoset,Cebuella pygmaea,0.8,14.0,Common,South America,Omnivores,15.0
+Golden Lion Tamarin,Leontopithecus rosalia,10.0,20.0,Endangered,South America,Omnivores,15.0
+Barbary Macaque,Macaca sylvanus,12.5,59.0,Endangered,Atlas Mountains,Omnivores,30.0
+Rhesus Macaque,Macaca mulatta,8.1,53.34,Common,Asia,Omnivores,4.0
+Vervet Monkey,Chlorocebus pygerythrus,4.0,51.0,Common,East Africa,Omnivores,30.0
+Gelada Baboon,Theropithecus gelada,16.0,62.0,Common,Ethopia,Omnivores,17.0
+Black-and-white Colobus,Colobus guereza,9.0,75.0,Common,Africa,Herbivorous,20.0
+Proboscis Monkey,Nasalis larvatus,14.0,64.5,Common,Borneo,Omnivore,15.0
+Grey Langur,Semnopithecus spp.,10.0,61.5,Common,Asia,Herbivorous,24.0
+Saki Monkey,Pithecia spp.,2.0,40.0,Common,South America,Frugivorous,15.0
+Bonnet Macaque,Macaca radiata,5.0,60.0,Common,South India,Omnivores,30.0
+Red-tailed Monkey,Cercopithecus ascanius,3.6,45.72,Common,East-Central Africa,Fructivorous,28.0
+Patas Monkey,Erythrocebus patas,12.5,60.0,Common,Africa,Omnivorous ,20.0
+De Brazza's Monkey,Cercopithecus neglectus,5.5,51.5,Common,Central Africa,Omnivorous ,26.0
+Owl Monkey,Aotus spp.,1.3,13.5,Common,North America,Frugivorous,20.0
+Celebes Macaque,Macaca nigra,7.0,52.5,Common,Indonesia,Frugivorous,19.0
+Lion-tailed Macaque,Macaca silenus,6.5,50.5,Common,South India,Omnivores,29.0
+Indri,Indri indri,7.8,68.0,Common,Madagascar,Herbivorous,19.0
+Aye-aye,Daubentonia madagascariensis,2.5,35.5,Common,Madagascar,Carnivourous,23.0
+Golden Snub-nosed Monkey,Rhinopithecus roxellana,22.75,66.5,Vulnerable,Southwestern China,Herbivorous,26.0
+Pygmy Slow Loris,Nycticebus pygmaeus,0.47,21.0,Common,Asia,Omnivores,20.0
+Woolly Monkey,Lagothrix spp.,8.16466,48.768,Common,Amazon,Herbivorous,30.0
+Geoffroy's Spider Monkey,Ateles geoffroyi,7.484,57.912,Common,Mexico,Frugivorous,40.0
+Moustached Tamarin,Saguinus mystax,0.51,61.0,Common,South America,Omnivores,20.0
+Emperor Tamarin,Saguinus imperator,0.56,24.5,Common,Amazon,Omnivores,20.0
+Black Spider Monkey,Ateles fusciceps,8.85,46.4,Endangered,America,Herbivorous,24.0
+Green Monkey,Chlorocebus sabaeus,5.7,45.0,Common,West Africa,Omnivores,24.0
+Java Langur,Trachypithecus auratus,7.0,54.4,Vulnerable,Indonesia,Folivore,20.0
+Red-faced Spider Monkey,Ateles paniscus,8.7,55.5,Common,South America,Herbivorous,40.0
+Mona Monkey,Cercopithecus mona,4.5,48.5,Common,West Africa,Omnivores,30.0
+Yellow Baboon,Papio cynocephalus,29.0,66.25,Common,East Africa,Frugivorous,25.0
+Mountain Gorilla,Gorilla beringei beringei,160.0,167.5,Common,Africa,Herbivorous,45.0
+White-cheeked Gibbon,Nomascus leucogenys,5.5,52.0,Critically Endangered,Southeast Asia,Frugivorous,25.0
+Red-bellied Titi,Plecturocebus moloch,0.9,33.5,Vulnerable,Amazon,Omnivores,14.0
+Grey-shanked Douc,Pygathrix cinerea,15.0,65.0,Vulnerable ,Vietnam,Folivore,25.0
+White-fronted Capuchin,Cebus albifrons,3.0,40.0,Vulnerable ,South Africa,Omnivores,20.0
+Bald Uakari ,Cacajao calvus,3.0,45.0,Endangered,Amazon,Frugivorous,20.0
+Black-capped Squirrel Monkey ,Saimiri boliviensis,0.7,30.0,Vulnerable ,Brazil,Omnivores,20.0
+Yellow-handed Titi ,Plecturocebus geoffroyi,0.4,22.5,Vulnerable ,Southeast Brazil,Omnivores,12.0
+Yellow-tailed Woolly Monkey ,Oreonax flavicauda,9.0,65.0,Critically Endangered,South America,Folivore,23.0
+Golden-headed Lion Tamarin,Leontopithecus chrysomelas,0.55,25.0,Vulnerable ,Southeast Brazil,Frugivorous,10.0
+Silvery Lutung ,Trachypithecus cristatus,8.0,55.0,Vulnerable ,South Asia,Herbivorous,20.0
+Peruvian Spider Monkey ,Ateles chamek,8.0,55.0,Vulnerable ,South America,Frugivorous,23.0
+Kloss's Gibbon ,Hylobates klossii,5.0,55.0,Vulnerable ,Sumatra,Frugivorous,30.0
+Burmese Grey Langur ,Trachypithecus phayrei,8.0,60.0,Vulnerable ,Southeast Asia,Folivore,25.0
+Grey Langur ,Semnopithecus priam,15.0,57.5,Vulnerable ,India,Herbivorous,23.0
+White-bellied Spider Monkey ,Ateles belzebuth,7.5,52.5,Vulnerable ,South America,Frugivorous,28.0
+Dusky Langur ,Trachypithecus obscurus.,6.5,60.0,Vulnerable ,Southeast Asia,Herbivorous,20.0
+Hainan Gibbon ,Nomascus hainanus,6.0,60.0,Critically Endangered,China,Herbivorous,28.0
+Miss Waldron's Red Colobus ,Piliocolobus waldronae,5.0,75.0,Critically Endangered,Tanzania,Folivore,23.0
+Tana River Red Colobus ,Piliocolobus rufomitratus,5.0,60.0,Critically Endangered,Southeast Kenya,Folivore,20.0
+Delacour's Langur ,Trachypithecus delacouri,8.5,60.0,Critically Endangered,Vietnam,Folivore,23.0
+Tonkin Snub-nosed Monkey ,Rhinopithecus avunculus,18.0,62.5,Critically Endangered,Vietnam,Omnivores,25.0
+Pagai Island Macaque,Macaca pagensis,7.5,50.0,Critically Endangered,Indonesia,Omnivores,20.0
+Perrier's Sifaka ,Propithecus perrieri,4.25,50.0,Critically Endangered,Madagascar,Folivore,30.0
+Javan Gibbon,Hylobates moloch,8.0,52.5,Endangered,Java,Frugivorous,25.0
+Northern Muriqui,Brachyteles hypoxanthus,9.0,72.5,Endangered,Southeast Brazil,Folivore,25.0
+Red-shanked Douc,Pygathrix nemaeus,10.5,65.0,Endangered,Vietnam,Omnivores,25.0
+Roloway Monkey,Cercopithecus roloway,8.5,55.0,Endangered,West Africa,Frugivorous,25.0
+Cotton-top Tamarin,Saguinus oedipus,0.5,22.5,Endangered,Colombia,Omnivores,13.0
+White-headed Langur,Trachypithecus poliocephalus,11.0,65.0,Endangered,Cambodia,Frugivorous,23.0
+Zanzibar Red Colobus, Piliocolobus kirkii,5.0,55.0,Endangered,East Africa,Frugivorous,25.0
+Sri Lankan Purple-faced Langur,Trachypithecus vetulus,6.5,57.0,Endangered,Srilanka,Herbivorous,30.0
+White-cheeked Spider Monkey,Ateles marginatus,7.0,47.0,Endangered,South America,Frugivorous,28.0
+Kipunji,Rungwecebus kipunji,9.0,67.5,Endangered,Tanzania,Frugivorous,23.0
